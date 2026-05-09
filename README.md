@@ -6,7 +6,7 @@ My goal is to design and build whatever I can imagine.
 
 I'm focusing on Robotics and as of now I'm learning ROS2. But always eager to learn and explore new technologies.
 
-# Currently Working on :
+### Currently Working on :
  - Taking place at "Roborave" Competition at Robotics
  - Design and Simulation of a SLAM System for Exploring and Mapping Unknown Environments Using ROS2 and Gazebo.
 <!--
