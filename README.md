@@ -1,5 +1,5 @@
 
-## Hello World! 👋<br>
+## Hello World! <br>
 <br>
 I'm Konstantinos, a Digital Systems University Student based in Greece.<br>
 <br>
@@ -27,7 +27,7 @@ I'm focusing on Robotics and as of now I'm learning ROS2. But always eager to le
 ![Verilog](https://img.shields.io/badge/Verilog-purple?style=for-the-badge&logo=v&logoColor=white&logoSize=auto)
 
 You can always contact me via:<br>
-![mail](https://img.shields.io/badge/knagou4%40gmail.com-white?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=red)<br>
+[![mail](https://img.shields.io/badge/knagou4%40gmail.com-white?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=red)](mailto:knagou4@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/nagou.__-white?style=flat&logo=instagram&logoSize=auto&labelColor=%23FF0069)
 ](https://www.instagram.com/nagou._/)<br>
 [![Static Badge](https://img.shields.io/badge/Nagkoulidis%20Konstantinos-white?style=flat&logo=logmein&logoColor=white&logoSize=auto&labelColor=blue)](https://www.linkedin.com/)
