@@ -1,7 +1,7 @@
 
 ## ~ Hello World! <br>
 <br>
-I'm Konstantinos, a Digital Systems University Student based in Greece.<br>
+I'm Konstantinos, a Digital Systems University Student based in Greece, Thessaloniki.<br>
 <br>
 My goal is to design and build whatever I can imagine.<br>
 <br>
@@ -30,7 +30,7 @@ You can always contact me via:<br>
 [![mail](https://img.shields.io/badge/knagou4%40gmail.com-white?style=flat&logo=gmail&logoColor=white&logoSize=auto&labelColor=red)](mailto:knagou4@gmail.com)<br>
 [![Instagram](https://img.shields.io/badge/nagou.__-white?style=flat&logo=instagram&logoSize=auto&labelColor=%23FF0069)
 ](https://www.instagram.com/nagou._/)<br>
-[![Static Badge](https://img.shields.io/badge/Nagkoulidis%20Konstantinos-white?style=flat&logo=logmein&logoColor=white&logoSize=auto&labelColor=blue)](https://www.linkedin.com/)
+[![Static Badge](https://img.shields.io/badge/Nagkoulidis%20Konstantinos-white?style=flat&logo=logmein&logoColor=white&logoSize=auto&labelColor=blue)](www.linkedin.com/in/konstantinos-nagkoulidis-5215b4413/)
 
 
 
